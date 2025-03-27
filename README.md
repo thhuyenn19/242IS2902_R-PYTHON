@@ -7,6 +7,7 @@
 <div align="center">
 
 # Vietcombank Stock Price Prediction: Machine Learning Project 📈
+</div>
 
 ## 📚 Project Overview
 This project aims to develop an advanced machine learning model for predicting Vietcombank (VCB) stock prices by integrating historical financial data and sentiment analysis from news sources.
@@ -40,6 +41,8 @@ This project aims to develop an advanced machine learning model for predicting V
 - **Course ID:** 242IS2902
 - **Academic Year:** Semester 2 (2024 - 2025)
 - **Instructor:** M.Trieu Viet Cuong
+
+<div align="center">
 
 ## 👥 PROJECT TEAM
 <table>
@@ -89,8 +92,6 @@ This project aims to develop an advanced machine learning model for predicting V
 
 ---
 
-<div align="center">
-  <p>© 2025 Group 3 - Data Analytics with R/Python</p>
-  <p>University of Economics and Law - VNU HCMC</p>
-</div>
+© 2025 Group 3 - Data Analytics with R/Python
+University of Economics and Law - VNU HCMC
 </div>
