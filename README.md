@@ -3,8 +3,9 @@
     <img src="https://i.imgur.com/jTdznYS.jpeg" alt="UEL">
   </a>
 </p>
-
-# Building a ML Model to Predict Vietcombank's Stock Prices Based on Historical Data and Sentiment Analysis 📈
+<div align="center">
+Building a ML Model to Predict Vietcombank's Stock Prices Based on Historical Data and Sentiment Analysis 📈
+</div>
 
 ## 📚 Course Information
 - **Course Name:** Data Analytics with R/Python
