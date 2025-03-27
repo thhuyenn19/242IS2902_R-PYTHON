@@ -5,7 +5,7 @@
 </p>
 <div align="center">
 
-#  Building a ML model to predict Vietcombank’s stock prices based on historical data and sentiment analysi
+#  Building a ML model to predict Vietcombank’s stock prices based on historical data and sentiment analysis
 
 
 ## 📚 COURSE INTRODUCTION
