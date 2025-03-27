@@ -3,6 +3,7 @@
     <img src="https://i.imgur.com/jTdznYS.jpeg" alt="UEL">
   </a>
 </p>
+
 <div align="center">
 
 # Vietcombank Stock Price Prediction: Machine Learning Project 📈
@@ -87,7 +88,9 @@ This project aims to develop an advanced machine learning model for predicting V
 </table>
 
 ---
+
 <div align="center">
   <p>© 2025 Group 3 - Data Analytics with R/Python</p>
   <p>University of Economics and Law - VNU HCMC</p>
+</div>
 </div>
