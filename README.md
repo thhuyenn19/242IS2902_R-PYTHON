@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# **Building a ML Model to Predict Vietcombank's Stock Prices Based on Historical Data and Sentiment Analysis** 📈
+# **📈Building a ML Model to Predict Vietcombank's Stock Prices Based on Historical Data and Sentiment Analysis** 
 
 </div>
 
