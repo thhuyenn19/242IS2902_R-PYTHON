@@ -31,8 +31,8 @@ This project aims to develop a machine learning model for predicting Vietcombank
 - **Transformer:** Uses attention mechanism for efficient analysis
 
 ### Sentiment Analysis
-- Extracts and analyzes financial news sentiment
-- Evaluates the impact of sentiment on stock price movements
+- VnCoreNLP for text preprocessing
+- PhoBERT for sentiment classification
 
 ---
 
