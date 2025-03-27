@@ -12,11 +12,6 @@
 ## 📚 Project Overview
 This project aims to develop an advanced machine learning model for predicting Vietcombank (VCB) stock prices by integrating historical financial data and sentiment analysis from news sources.
 
-## 🎯 Project Objectives
-- Develop predictive models for VCB stock prices
-- Implement time series forecasting techniques
-- Conduct sentiment analysis on financial news
-- Compare performance of traditional and deep learning models
 
 ## 🧠 Methodology
 ### Forecasting Models
@@ -53,19 +48,19 @@ This project aims to develop an advanced machine learning model for predicting V
     <th align="center">GitHub</th>
     <th align="center">Email</th>
   </tr>
-  <tr>
+    <tr>
     <td align="center">1</td>
-    <td align="center">K224111460</td>
-    <td align="center">Phạm Tuyết Nhung</td>
-    <td align="center"><a href="https://github.com/nhungnehehe">nhungnehehe</a></td>
-    <td align="center">nhungpt22411c@st.uel.edu.vn</td>
-  </tr>
-  <tr>
-    <td align="center">2</td>
     <td align="center">K224111450</td>
     <td align="center">Nguyễn Trần Thanh Huyền - Leader</td>
     <td align="center"><a href="https://github.com/thhuyenn19">thhuyenn19</a></td>
     <td align="center">huyennntt22411c@st.uel.edu.vn</td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td align="center">K224111460</td>
+    <td align="center">Phạm Tuyết Nhung</td>
+    <td align="center"><a href="https://github.com/nhungnehehe">nhungnehehe</a></td>
+    <td align="center">nhungpt22411c@st.uel.edu.vn</td>
   </tr>
   <tr>
     <td align="center">3</td>
