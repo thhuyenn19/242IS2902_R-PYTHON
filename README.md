@@ -41,6 +41,6 @@ This project aims to develop a machine learning model for predicting Vietcombank
 ---
 
 <div align="center">
-  <p>© 2025 Group 3 - Web Business Development</p>
+  <p>© 2025 Group 3 - Data Analytics with R/Python</p>
   <p>University of Economics and Law - VNU HCMC</p>
 </div>
