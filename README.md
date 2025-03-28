@@ -38,6 +38,9 @@ This project aims to develop a machine learning model for predicting Vietcombank
 - VnCoreNLP for text preprocessing
 - PhoBERT for sentiment classification
 
+### Note
+For crawling Vietstock data, our team uses **Selenium + ChromeDriver**, which requires a browser-supported environment. Google Colab does not support GUI, making it difficult to work with Selenium. Therefore, we use Visual Studio Code on local to collect data (Python files - .py).
+
 ---
 
 <div align="center">
