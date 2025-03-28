@@ -3,72 +3,42 @@
     <img src="https://i.imgur.com/jTdznYS.jpeg" alt="UEL">
   </a>
 </p>
+
 <div align="center">
 
-#  Building a ML model to predict Vietcombank’s stock prices based on historical data and sentiment analysis
+# **📈Building a ML Model to Predict Vietcombank's Stock Prices Based on Historical Data and Sentiment Analysis** 
 
+</div>
 
-## 📚 COURSE INTRODUCTION
-
-- **Course Name:** Data analytics with R/Python
+## 📚 Course Information
+- **Course Name:** Data Analytics with R/Python
 - **Course ID:** 242IS2902
 - **Academic Year:** Semester 2 (2024 - 2025)
 - **Instructor:** M.Trieu Viet Cuong
 
----
+## 👥 Project Team
+| No. | Student ID | Full Name | GitHub | Email |
+|----|------------|-----------------------------|----------------------|---------------------------------|
+| 1 | K224111450 | Nguyễn Trần Thanh Huyền - Leader | [thhuyenn19](https://github.com/thhuyenn19) | huyennntt22411c@st.uel.edu.vn |
+| 2 | K224111460 | Phạm Tuyết Nhung | [nhungnehehe](https://github.com/nhungnehehe) | nhungpt22411c@st.uel.edu.vn |
+| 3 | K224111461 | Vũ Quỳnh Như | [qnhu11](https://github.com/qnhu11) | nhuqv22411c@st.uel.edu.vn |
+| 4 | K224111462 | Lê Nguyễn Minh Thảo | [lnmthao](https://github.com/lnmthao) | thaolnm22411c@st.uel.edu.vn |
+| 5 | K224111470 | Phan Thị Thùy Trang | [ThuyTrang1604](https://github.com/ThuyTrang1604) | trangptt22411c@st.uel.edu.vn |
 
-## 👥 GROUP 3 MEMBERS
+## 📚 Project Overview
+This project aims to develop a machine learning model for predicting Vietcombank (VCB) stock prices by integrating historical financial data and sentiment analysis from news sources.
 
-<table>
-  <tr>
-    <th align="center">No.</th>
-    <th align="center">Student ID</th>
-    <th align="center">Full Name</th>
-    <th align="center">GitHub</th>
-    <th align="center">Email</th>
-  </tr>
-    <tr>
-    <td align="center">2</td>
-    <td align="center">K224111450</td>
-    <td align="center">Nguyễn Trần Thanh Huyền - Leader</td>
-    <td align="center"><a href="https://github.com/thhuyenn19">thhuyenn19</a></td>
-    <td align="center">huyennntt22411c@st.uel.edu.vn</td>
-  </tr>
-  <tr>
-    <td align="center">1</td>
-    <td align="center">K224111460</td>
-    <td align="center">Phạm Tuyết Nhung<br/><i></i></td>
-    <td align="center"><a href="https://github.com/nhungnehehe">nhungnehehe</a></td>
-    <td align="center">nhungpt22411c@st.uel.edu.vn</td>
-  </tr>
-  <tr>
-    <td align="center">3</td>
-    <td align="center">K224111461</td>
-    <td align="center">Vũ Quỳnh Như</td>
-    <td align="center"><a href="https://github.com/qnhu11">qnhu11</a></td>
-    <td align="center">nhuvq22411c@st.uel.edu.vn</td>
-  </tr>
-  <tr>
-    <td align="center">4</td>
-    <td align="center">K224111462</td>
-    <td align="center">Lê Nguyễn Minh Thảo</td>
-    <td align="center"><a href="https://github.com/lnmthao">lnmthao</a></td>
-    <td align="center">thaolnm22411c@st.uel.edu.vn</td>
-  </tr>
-  <tr>
-    <td align="center">5</td>
-    <td align="center">K224111470</td>
-    <td align="center">Phan Thị Thùy Trang</td>
-    <td align="center"><a href="https://github.com/ThuyTrang1604">ThuyTrang1604</a></td>
-    <td align="center">trangptt22411c@st.uel.edu.vn</td>
-  </tr>
-</table>
+## 🧠 Methodology
+### Forecasting Models
+- **SARIMA:** Captures trends and seasonal fluctuations
+- **LSTM & BiLSTM:** Models long-term dependencies in stock prices
+- **Transformer:** Uses attention mechanism for efficient analysis
 
-
+### Sentiment Analysis
+- VnCoreNLP for text preprocessing
+- PhoBERT for sentiment classification
 
 ---
 
-<div align="center">
-  <p>© 2025 Group 3 - Data analytics with R/Python</p>
-  <p>University of Economics and Law - VNU HCMC</p>
-</div>
+© 2025 Group 3 - Data Analytics with R/Python
+University of Economics and Law - VNU HCMC
